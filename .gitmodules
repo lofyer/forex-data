@@ -1,0 +1,6 @@
+[submodule "collect/hist-downloader"]
+	path = collect/hist-downloader
+	url = https://github.com/luvemil/hist-downloader
+[submodule "collect/forex-histdata-etl"]
+	path = collect/forex-histdata-etl
+	url = https://github.com/xeb/forex-histdata-etl
